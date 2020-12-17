@@ -14,7 +14,7 @@ click on the upload symbol
 
 go to the goanimate wrapper asset server file you downloaded from google drive.
 
-dont have it? heres the download link. no download link yet. please wait or find the download link yourself.
+dont have it? heres the download link. https://drive.google.com/file/d/1yJFnj7XsvaQeg_eE0Yjiat2jy9RAz-at/view?usp=drivesdk
 
 seleat index.html
 if the webstie says thst it needs more files, select the rest of the files in the server folder except the server folders in it.
