@@ -16,7 +16,7 @@ go to the goanimate wrapper asset server file you downloaded from google drive.
 
 dont have it? heres the download link. https://drive.google.com/file/d/1yJFnj7XsvaQeg_eE0Yjiat2jy9RAz-at/view?usp=drivesdk
 
-seleat index.html
+seleat index.html.
 if the webstie says thst it needs more files, just put in random files in the website. just make sure that your site dosent crash.
 
 after you do that, the website is ready to go!
