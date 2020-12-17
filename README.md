@@ -1,6 +1,4 @@
-# message-to-2epik4u-in-the-goanimate-wrapper-asset-server-page
-
-#host in 000webhost
+# message-to-2epik4u-in-the-goanimate-wrapper-asset-server-page and you can host it at 000webhost.
 
 create an account
 
